@@ -1,0 +1,28 @@
+.portfolio {
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  
+  img {
+    max-width: 200px;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    text-decoration: none;
+  }
+  

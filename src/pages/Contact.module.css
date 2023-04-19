@@ -1,0 +1,29 @@
+.contact {
+    padding: 20px;
+  }
+  
+form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+input,
+textarea {
+    padding: 5px;
+    font-size: 16px;
+    resize: none;
+  }
+  
+button {
+    margin-top: 15px;
+    padding: 8px 12px;
+    font-size: 16px;
+    background-color: #f9c00e;
+    border: none;
+    cursor: pointer;
+  }
